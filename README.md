@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Anna 👋
+🌱 I’m currently learning Angular and Flutter
 
 <!--
 **hanyska/hanyska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
